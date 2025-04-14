@@ -27,7 +27,7 @@ IIP_Data_Forecasting/
 │   └── tables
 │
 ├── scripts/                        
-│   ├── modeling
+│   ├── models
 │   └── evaluation
 │
 ├── README.md                         
